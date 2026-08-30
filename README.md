@@ -1,13 +1,13 @@
 # Weather-app
 
-# 🌦️ Weather-app - Live Python API Project
+# 🌦️ Weather App - Live Python API Project
 
-Real-time weather dikhane wala Python app. Internet se live data lata hai!
+A Python application that shows real-time weather for any city using a live API.
 
 ### 🚀 Features
-- Koi bhi city ka weather
-- Live temperature & condition
-- Python `requests` API ka use
+- Search weather by any city name
+- Shows live temperature and condition
+- Uses Python `requests` library
 
 ### 💻 How to Run
 ```bash
